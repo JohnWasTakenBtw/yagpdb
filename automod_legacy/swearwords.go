@@ -8,7 +8,6 @@ var BuiltinSwearWords = map[string]bool{
 	"ass":         true,
 	"b1tch":       true,
 	"ballsack":    true,
-	"bastard":     true,
 	"bitch":       true,
 	"biatch":      true,
 	"blowjob":     true,
